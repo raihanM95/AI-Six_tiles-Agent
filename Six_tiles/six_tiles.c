@@ -29,7 +29,7 @@ int main()
                 location = 'B';
             }
             else if(state_a == 'c'){
-                printf(" %c is clean and turned right.\n");
+                printf(" %c is clean and turned right.\n", location);
                 location = 'B';
             }
             A = 'c';
